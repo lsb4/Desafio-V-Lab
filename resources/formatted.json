@@ -1,0 +1,2231 @@
+[
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 4.71428571428571,
+      "liked": false,
+      "likes_count": 33,
+      "downloads_count": 3486,
+      "views_count": 6343,
+      "reviewed": false,
+      "complained": false,
+      "id": 19133,
+      "name": "GCompris - Jogo Educacional para fundamental I",
+      "description": "GCompris é um software educacional de alta qualidade que compreende numerosas atividades para crianças com idade entre 2 e 10 anos. GCompris é um software livre francês, que significa \"Eu entendi\". Ele é ótimo para testar conhecimentos sobre conceitos ou vivê-los de maneira prática.\n\nAlgumas atividades são de orientação lúdica, mas mesmo assim ainda educacional.\n\nAbaixo você encontra uma lista de categorias, com algumas das atividades disponíveis em cada uma delas.\n\ndescoberta do computador: teclado, mouse, diferentes usos do mouse, ...\naritmética: memorização de tabelas, enumeração, tabelas de entrada dupla, imagens espelhadas, ...\nciências: controle do canal, ciclo da água, o submarino, simulação elétrica, ...\ngeografia: colocar os países no mapa\njogos: xadrez, memória, ligue 4, sudoku ...\nleitura: prática de leitura\noutros: aprender a identificar as horas, quebra-cabeças com pinturas famosas, desenho vetorial, produção de quadrinhos, ...\nAtualmente o GCompris oferece mais de 100 atividades e está em constante evolução. O GCompris é um software livre, o que significa que você pode adaptá-lo às suas necessidades, melhorá-lo e, o mais importante, compartilhá-lo com as crianças de toda a parte.",
+      "author": "Bruno Coudoin",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/019/133/original/data?1492714131",
+      "object_type": "Software Educacional",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/30079/retrieve",
+      "default_attachment_id": 26435,
+      "default_mime_type": "application/octet-stream",
+      "score": 0.624309,
+      "link": null,
+      "software": "Requer instalação no Windows SO.",
+      "license": {
+         "id": 1,
+         "name": "CC BY",
+         "description": "Esta licença permite que outros distribuam, remixem, adaptem e criem a partir do seu trabalho, mesmo para fins comerciais, desde que lhe atribuam o devido crédito pela criação original",
+         "image_url": "https://licensebuttons.net/l/by/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.849Z",
+         "updated_at": "2018-10-03T14:26:24.146Z"
+      },
+      "shares_count": 0,
+      "created_at": "2017-04-20T18:19:21.655Z",
+      "published_at": "2017-04-20T18:45:09.956Z",
+      "terms_of_service": null,
+      "updated_at": "2021-06-09T19:43:19.776Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 89,
+         "provider": "google_oauth2",
+         "cpf": null,
+         "name": "Viviane Ferreira",
+         "description": "Sou uma professora, pesquisadora e curiosa das tecnologias da educação.",
+         "submitter_request": "default",
+         "education": null,
+         "score": 0.081314,
+         "cover": "/system/users/covers/000/000/089/original/data?1491856624",
+         "role_ids": [
+            11,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/000/089/original/open-uri20180112-26345-10ngdv7?1515779960",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 3,
+         "follows_count": 52,
+         "learning_objects_count": 3,
+         "collections_count": 3,
+         "created_at": "2017-04-10T20:30:42.924Z",
+         "updated_at": "2021-03-08T14:37:08.334Z",
+         "terms_accepted_at": null,
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 10414,
+            "name": "Jogos",
+            "created_at": "2017-03-22T18:03:27.759Z",
+            "updated_at": "2017-03-22T18:03:27.759Z"
+         },
+         {
+            "id": 23298,
+            "name": "infância",
+            "created_at": "2017-04-20T18:40:16.441Z",
+            "updated_at": "2017-04-20T18:40:16.441Z"
+         },
+         {
+            "id": 23299,
+            "name": "alfabetização",
+            "created_at": "2017-04-20T18:40:16.494Z",
+            "updated_at": "2017-04-20T18:40:16.494Z"
+         },
+         {
+            "id": 23300,
+            "name": "software livre",
+            "created_at": "2017-04-20T18:40:16.538Z",
+            "updated_at": "2017-04-20T18:40:16.538Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 1,
+            "name": "Língua Espanhola",
+            "created_at": "2017-03-22T16:56:08.037Z",
+            "updated_at": "2017-03-22T16:56:08.037Z",
+            "theme": false
+         },
+         {
+            "id": 10,
+            "name": "Geografia",
+            "created_at": "2017-03-22T16:56:08.098Z",
+            "updated_at": "2017-03-22T16:56:08.098Z",
+            "theme": false
+         },
+         {
+            "id": 14,
+            "name": "Sociologia",
+            "created_at": "2017-03-22T16:56:08.123Z",
+            "updated_at": "2017-03-22T16:56:08.123Z",
+            "theme": false
+         },
+         {
+            "id": 4,
+            "name": "Língua Portuguesa",
+            "created_at": "2017-03-22T16:56:08.059Z",
+            "updated_at": "2017-03-22T16:56:08.059Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 6,
+            "name": "Outros",
+            "created_at": "2017-03-22T16:56:08.203Z",
+            "updated_at": "2017-03-22T16:56:08.203Z"
+         },
+         {
+            "id": 1,
+            "name": "Educação Infantil",
+            "created_at": "2017-03-22T16:56:08.170Z",
+            "updated_at": "2017-03-22T16:56:08.170Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 45449,
+            "name": "30079.torrent",
+            "retrieve_link": "/bitstreams/49197/retrieve",
+            "description": "GCompris é um software educacional de alta qualidade que compreende numerosas atividades para crianças com idade entre 2 e 10 anos. GCompris é um software livre francês, que significa \"Eu entendi\". Ele é ótimo para testar conhecimentos sobre conceitos ou vivê-los de maneira prática.\n\nAlgumas atividades são de orientação lúdica, mas mesmo assim ainda educacional.\n\nAbaixo você encontra uma lista de categorias, com algumas das atividades disponíveis em cada uma delas.\n\ndescoberta do computador: teclado, mouse, diferentes usos do mouse, ...\naritmética: memorização de tabelas, enumeração, tabelas de entrada dupla, imagens espelhadas, ...\nciências: controle do canal, ciclo da água, o submarino, simulação elétrica, ...\ngeografia: colocar os países no mapa\njogos: xadrez, memória, ligue 4, sudoku ...\nleitura: prática de leitura\noutros: aprender a identificar as horas, quebra-cabeças com pinturas famosas, desenho vetorial, produção de quadrinhos, ...\nAtualmente o GCompris oferece mais de 100 atividades e está em constante evolução. O GCompris é um software livre, o que significa que você pode adaptá-lo às suas necessidades, melhorá-lo e, o mais importante, compartilhá-lo com as crianças de toda a parte.",
+            "format": "Unknown",
+            "mime_type": "application/octet-stream",
+            "size": 29738,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 19133,
+            "created_at": "2017-09-26T13:07:59.412Z",
+            "updated_at": "2020-02-19T15:24:12.326Z",
+            "id_dspace": "7b45b5b4-eb26-490b-8691-0287a80a0ee5",
+            "thumbnail": "",
+            "cache_link": "/attachments/45449/30079.torrent",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         },
+         {
+            "id": 26435,
+            "name": "gcompris-qt-0.70-win32.exe",
+            "retrieve_link": "/bitstreams/30079/retrieve",
+            "description": "GCompris é um software educacional de alta qualidade que compreende numerosas atividades para crianças com idade entre 2 e 10 anos.\n\nAlgumas atividades são de orientação lúdica, mas mesmo assim ainda educacional.\n\nAbaixo você encontra uma lista de categorias, com algumas das atividades disponíveis em cada uma delas.\n\ndescoberta do computador: teclado, mouse, diferentes usos do mouse, ...\naritmética: memorização de tabelas, enumeração, tabelas de entrada dupla, imagens espelhadas, ...\nciências: controle do canal, ciclo da água, o submarino, simulação elétrica, ...\ngeografia: colocar os países no mapa\njogos: xadrez, memória, ligue 4, sudoku ...\nleitura: prática de leitura\noutros: aprender a identificar as horas, quebra-cabeças com pinturas famosas, desenho vetorial, produção de quadrinhos, ...\nAtualmente o GCompris oferece mais de 100 atividades e está em constante evolução. O GCompris é um software livre, o que significa que você pode adaptá-lo às suas necessidades, melhorá-lo e, o mais importante, compartilhá-lo com as crianças de toda a parte.",
+            "format": "Unknown",
+            "mime_type": "application/octet-stream",
+            "size": 96323766,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 19133,
+            "created_at": "2017-04-20T18:38:05.691Z",
+            "updated_at": "2020-02-19T15:24:12.308Z",
+            "id_dspace": "567c7955-5607-4f06-97a6-526c9e636d99",
+            "thumbnail": "",
+            "cache_link": "/attachments/26435/gcompris-qt-0.70-win32.exe",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 4.33333333333333,
+      "liked": false,
+      "likes_count": 22,
+      "downloads_count": 3430,
+      "views_count": 5461,
+      "reviewed": false,
+      "complained": false,
+      "id": 338674,
+      "name": "Ilha das Operações",
+      "description": "O RED Ilha das Operações traz o contexto de uma ilha mágica onde existiam quatro tribos, cada uma delas associada a uma das operações matemáticas básicas (adição, subtração, multiplicação e divisão). O jogador deverá resolver os desafios propostos pelo RED a fim de apaziguar um conflito que surgiu entre os povos Multiplis (multiplicação) e Divisarions (divisão), antes que toda a ilha seja comprometida. Nesse contexto, o RED Ilha das Operações explora diferentes situações quaternárias do campo conceitual multiplicativo, dos eixos de proporção simples e proporção múltipla. Todas essas situações são apresentadas no recurso por meio de múltiplas representações (icônica, tabular), o que deve proporcionar aos estudantes uma melhor compreensão das relações envolvidas.",
+      "author": "Juscileide Braga de Castro, Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lídya de Lima Monteiro, Joyce da Silva Sousa, Francisco Youri Miranda de Freitas, José Aires de Castro Filho",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/338/674/original/data?1585170367",
+      "object_type": "Jogo",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/c02f6b07-dd75-4a6a-8642-51cf2c464376/retrieve",
+      "default_attachment_id": 336944,
+      "default_mime_type": "application/x-rar",
+      "score": 0.532909,
+      "link": null,
+      "software": null,
+      "license": {
+         "id": 5,
+         "name": "CC BY-NC-SA",
+         "description": "Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos",
+         "image_url": "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.866Z",
+         "updated_at": "2018-10-03T14:26:24.175Z"
+      },
+      "shares_count": 0,
+      "created_at": "2020-03-25T21:00:01.305Z",
+      "published_at": "2020-10-19T16:32:40.506Z",
+      "terms_of_service": null,
+      "updated_at": "2021-10-14T14:54:49.142Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 6862,
+         "provider": "email",
+         "cpf": null,
+         "name": "Secretaria de Educação Básica",
+         "description": "Secretaria de Educação Básica do Ministério da Educação",
+         "submitter_request": "default",
+         "education": null,
+         "score": 0.042769,
+         "cover": "/system/users/covers/000/006/862/original/data?1554815539",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/006/862/original/data?1554815570",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 165,
+         "learning_objects_count": 68,
+         "collections_count": 1,
+         "created_at": "2018-09-14T19:56:57.813Z",
+         "updated_at": "2021-11-05T15:01:42.014Z",
+         "terms_accepted_at": null,
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 385498,
+            "name": "MIDE",
+            "created_at": "2020-09-01T18:09:15.376Z",
+            "updated_at": "2020-09-01T18:09:15.376Z"
+         },
+         {
+            "id": 1726,
+            "name": "Jogo",
+            "created_at": "2017-03-22T17:58:13.493Z",
+            "updated_at": "2017-03-22T17:58:13.493Z"
+         },
+         {
+            "id": 376057,
+            "name": "EF04MA07",
+            "created_at": "2020-03-20T13:10:00.184Z",
+            "updated_at": "2020-03-20T13:10:00.184Z"
+         },
+         {
+            "id": 376056,
+            "name": "EF04MA06",
+            "created_at": "2020-03-20T13:10:00.094Z",
+            "updated_at": "2020-03-20T13:10:00.094Z"
+         },
+         {
+            "id": 376055,
+            "name": "EF04MA05",
+            "created_at": "2020-03-20T13:10:00.025Z",
+            "updated_at": "2020-03-20T13:10:00.025Z"
+         },
+         {
+            "id": 376054,
+            "name": "EF04MA04",
+            "created_at": "2020-03-20T13:09:59.948Z",
+            "updated_at": "2020-03-20T13:09:59.948Z"
+         },
+         {
+            "id": 38598,
+            "name": "Cultura digital",
+            "created_at": "2020-02-21T21:38:32.607Z",
+            "updated_at": "2020-02-21T21:38:32.607Z"
+         },
+         {
+            "id": 28337,
+            "name": "BNCC",
+            "created_at": "2018-03-26T01:07:33.500Z",
+            "updated_at": "2018-03-26T01:07:33.500Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 12,
+            "name": "Matemática",
+            "created_at": "2017-03-22T16:56:08.111Z",
+            "updated_at": "2017-03-22T16:56:08.111Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 336944,
+            "name": "Ilha_das_Opera_es.rar",
+            "retrieve_link": "/rest/bitstreams/c02f6b07-dd75-4a6a-8642-51cf2c464376/retrieve",
+            "description": "O RED Ilha das Operações traz o contexto de uma ilha mágica onde existiam quatro tribos, cada uma delas associada a uma das operações matemáticas básicas (adição, subtração, multiplicação e divisão). O jogador deverá resolver os desafios propostos pelo RED a fim de apaziguar um conflito que surgiu entre os povos Multiplis (multiplicação) e Divisarions (divisão), antes que toda a ilha seja comprometida. Nesse contexto, o RED Ilha das Operações explora diferentes situações quaternárias do campo conceitual multiplicativo, dos eixos de proporção simples e proporção múltipla. Todas essas situações são apresentadas no recurso por meio de múltiplas representações (icônica, tabular), o que deve proporcionar aos estudantes uma melhor compreensão das relações envolvidas.",
+            "format": "Unknown",
+            "mime_type": "application/x-rar",
+            "size": 56757909,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 338674,
+            "created_at": "2020-03-25T21:02:25.899Z",
+            "updated_at": "2020-03-30T17:37:29.747Z",
+            "id_dspace": "c02f6b07-dd75-4a6a-8642-51cf2c464376",
+            "thumbnail": "",
+            "cache_link": "/attachments/336944/Ilha_das_Opera_es.rar",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 4.66666666666667,
+      "liked": false,
+      "likes_count": 18,
+      "downloads_count": 2600,
+      "views_count": 4486,
+      "reviewed": false,
+      "complained": false,
+      "id": 338693,
+      "name": "A Turma da Mila em: O livro de parlendas",
+      "description": "O RED tem início com um baú de livros sendo apresentado à turma da Mila por Dona Eulália, avó da personagem Vitória. Nele, Vitória encontra um livro chamado Parlendas Fantásticas, no qual cada parlenda representa uma atividade. \nNa 1ª fase, a parlenda trabalhada será \"Hoje é domingo\". A partir dela, os alunos deverão estabelecer uma correspondência entre imagens e suas representações escritas. \nNa 2ª fase, a parlenda trabalhada será \"Um, dois, feijão com arroz\", e, por meio dela, os alunos serão desafiados a completar um texto lacunado, considerando a sonoridade e a rima entre as palavras. \nNa 3ª fase, a parlenda trabalhada será \"Corre, cotia\" e, a partir dela, os alunos serão desafiados a substituir palavras do texto que rimam por outras com sons semelhantes, considerando as rimas. Para tanto, primeiramente, os alunos escutarão a parlenda original e depois deverão substituir as palavras com sons semelhantes na atividade. \nAo finalizar a 3ª fase, o aluno será convidado a conhecer duas novas parlendas ilustradas com animações, intituladas “Lá vai a bola” e “Cadê o toucinho que estava aqui?”. Essas parlendas poderão ser ouvidas e trabalhadas em sala de aula posteriormente.",
+      "author": "Raquel Santiago Freire, Rayssa Araújo Hitzschky, Leonel Andrade dos Santos, Mércia Valéria Campos Figueiredo, Danilo Coêlho Sousa, José Aires de Castro Filho",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/338/693/original/data?1585765819",
+      "object_type": "Jogo",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/ff2e5f27-fcb5-4918-98c0-cc18e0fe1c3b/retrieve",
+      "default_attachment_id": 336956,
+      "default_mime_type": "application/zip",
+      "score": 0.490579,
+      "link": null,
+      "software": null,
+      "license": {
+         "id": 5,
+         "name": "CC BY-NC-SA",
+         "description": "Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos",
+         "image_url": "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.866Z",
+         "updated_at": "2018-10-03T14:26:24.175Z"
+      },
+      "shares_count": 0,
+      "created_at": "2020-04-01T17:36:04.142Z",
+      "published_at": "2020-08-12T14:56:32.883Z",
+      "terms_of_service": true,
+      "updated_at": "2021-06-26T23:55:58.294Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 6862,
+         "provider": "email",
+         "cpf": null,
+         "name": "Secretaria de Educação Básica",
+         "description": "Secretaria de Educação Básica do Ministério da Educação",
+         "submitter_request": "default",
+         "education": null,
+         "score": 0.042769,
+         "cover": "/system/users/covers/000/006/862/original/data?1554815539",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/006/862/original/data?1554815570",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 165,
+         "learning_objects_count": 68,
+         "collections_count": 1,
+         "created_at": "2018-09-14T19:56:57.813Z",
+         "updated_at": "2021-11-05T15:01:42.014Z",
+         "terms_accepted_at": null,
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 376124,
+            "name": "EF12LP19",
+            "created_at": "2020-04-01T17:55:15.757Z",
+            "updated_at": "2020-04-01T17:55:15.757Z"
+         },
+         {
+            "id": 376123,
+            "name": "EF12LP05",
+            "created_at": "2020-04-01T17:55:13.094Z",
+            "updated_at": "2020-04-01T17:55:13.094Z"
+         },
+         {
+            "id": 376122,
+            "name": "EF01LP16",
+            "created_at": "2020-04-01T17:55:06.364Z",
+            "updated_at": "2020-04-01T17:55:06.364Z"
+         },
+         {
+            "id": 376121,
+            "name": "EF01LP19",
+            "created_at": "2020-04-01T17:55:02.051Z",
+            "updated_at": "2020-04-01T17:55:02.051Z"
+         },
+         {
+            "id": 137305,
+            "name": "consciência fonológica",
+            "created_at": "2020-02-28T19:08:11.063Z",
+            "updated_at": "2020-02-28T19:08:11.063Z"
+         },
+         {
+            "id": 369113,
+            "name": "canções",
+            "created_at": "2020-03-02T11:41:39.282Z",
+            "updated_at": "2020-03-02T11:41:39.282Z"
+         },
+         {
+            "id": 26209,
+            "name": "rimas",
+            "created_at": "2017-11-17T13:05:20.902Z",
+            "updated_at": "2017-11-17T13:05:20.902Z"
+         },
+         {
+            "id": 369112,
+            "name": "Parlendas",
+            "created_at": "2020-03-02T11:41:32.021Z",
+            "updated_at": "2020-03-02T11:41:32.021Z"
+         },
+         {
+            "id": 28337,
+            "name": "BNCC",
+            "created_at": "2018-03-26T01:07:33.500Z",
+            "updated_at": "2018-03-26T01:07:33.500Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 4,
+            "name": "Língua Portuguesa",
+            "created_at": "2017-03-22T16:56:08.059Z",
+            "updated_at": "2017-03-22T16:56:08.059Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 336956,
+            "name": "3_-_A_turma_da_mila_Parlendas-20200401T173503Z-001.zip",
+            "retrieve_link": "/rest/bitstreams/ff2e5f27-fcb5-4918-98c0-cc18e0fe1c3b/retrieve",
+            "description": "O RED tem início com um baú de livros sendo apresentado à turma da Mila por Dona Eulália, avó da personagem Vitória. Nele, Vitória encontra um livro chamado Parlendas Fantásticas, no qual cada parlenda representa uma atividade. \nNa 1ª fase, a parlenda trabalhada será \"Hoje é domingo\". A partir dela, os alunos deverão estabelecer uma correspondência entre imagens e suas representações escritas. \nNa 2ª fase, a parlenda trabalhada será \"Um dois, feijão com arroz\", e, por meio dela, os alunos serão desafiados a completar um texto lacunado, considerando a sonoridade e a rima entre as palavras. \nNa 3ª fase, a parlenda trabalhada será \"Corre, cotia\" e, a partir dela, os alunos serão desafiados a substituir palavras do texto que rimam por outras com sons semelhantes, considerando as rimas. Para tanto, primeiramente, os alunos escutarão a parlenda original e depois deverão substituir as palavras com sons semelhantes na atividade. \nAo finalizar a 3ª fase, o aluno será convidado a conhecer duas novas parlendas ilustradas com animações, intituladas “Lá vai a bola” e “Cadê o toucinho que estava aqui?”. Essas parlendas poderão ser ouvidas e trabalhadas em sala de aula posteriormente.",
+            "format": "Unknown",
+            "mime_type": "application/zip",
+            "size": 59202126,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 338693,
+            "created_at": "2020-04-01T18:06:39.296Z",
+            "updated_at": "2020-04-13T14:44:55.540Z",
+            "id_dspace": "ff2e5f27-fcb5-4918-98c0-cc18e0fe1c3b",
+            "thumbnail": "",
+            "cache_link": "/attachments/336956/3_-_A_turma_da_mila_Parlendas-20200401T173503Z-001.zip",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 4.85714285714286,
+      "liked": false,
+      "likes_count": 13,
+      "downloads_count": 2382,
+      "views_count": 4113,
+      "reviewed": false,
+      "complained": false,
+      "id": 34339,
+      "name": "Jogo virtual: Brincando com Substantivos",
+      "description": "O jogo propõem uma atividade lúdica para classificar palavras em pessoa, lugar ou coisa.",
+      "author": "Britannica Digital Learning",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/034/339/original/data?1542809082",
+      "object_type": "Outros",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": null,
+      "default_attachment_id": null,
+      "default_mime_type": null,
+      "score": 0.471705,
+      "link": "https://escola.britannica.com.br/competentum/GE_2_18/",
+      "software": null,
+      "license": {
+         "id": 5,
+         "name": "CC BY-NC-SA",
+         "description": "Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos",
+         "image_url": "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.866Z",
+         "updated_at": "2018-10-03T14:26:24.175Z"
+      },
+      "shares_count": 0,
+      "created_at": "2018-11-21T13:47:40.526Z",
+      "published_at": "2018-11-21T13:57:30.435Z",
+      "terms_of_service": true,
+      "updated_at": "2021-03-13T15:30:49.876Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 8239,
+         "provider": "email",
+         "cpf": null,
+         "name": "Britannica Digital Learning",
+         "description": null,
+         "submitter_request": "default",
+         "education": null,
+         "score": 0.025805,
+         "cover": "",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/008/239/original/data?1542841010",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 0,
+         "follows_count": 16,
+         "learning_objects_count": 25,
+         "collections_count": 1,
+         "created_at": "2018-11-19T17:27:49.984Z",
+         "updated_at": "2020-04-06T18:56:05.194Z",
+         "terms_accepted_at": null,
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 12344,
+            "name": "Substantivo",
+            "created_at": "2017-03-22T18:05:10.521Z",
+            "updated_at": "2017-03-22T18:05:10.522Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 4,
+            "name": "Língua Portuguesa",
+            "created_at": "2017-03-22T16:56:08.059Z",
+            "updated_at": "2017-03-22T16:56:08.059Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": []
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 4.78947368421053,
+      "liked": false,
+      "likes_count": 13,
+      "downloads_count": 2510,
+      "views_count": 4571,
+      "reviewed": false,
+      "complained": false,
+      "id": 35900,
+      "name": "Revista Digital da Criança",
+      "description": "O RED “Revista Digital da Criança” trabalha a estrutura de uma revista e os gêneros que a compõem, ampliando a consciência dos alunos sobre os conteúdos abordados, como também sobre as principais características textuais e organizacionais desses gêneros. A partir do uso deste recurso, são exploradas seções próprias de uma revista, cada uma representada por um gênero textual do campo jornalístico-midiático, como capa, editorial, sumário, entrevista e cartas dos leitores. Além disso, os jogos estão presentes com o objetivo de estabelecer uma primeira avaliação da interpretação textual.",
+      "author": "Raquel Santiago Freire, Mércia Valéria Campos Figueiredo, Rayssa Araújo Hitzschky, Danilo Coêlho Sousa, José Aires de Castro Filho",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/035/900/original/data?1583174315",
+      "object_type": "Jogo",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/50813/retrieve",
+      "default_attachment_id": 46424,
+      "default_mime_type": "application/x-rar",
+      "score": 0.466667,
+      "link": null,
+      "software": null,
+      "license": {
+         "id": 5,
+         "name": "CC BY-NC-SA",
+         "description": "Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos",
+         "image_url": "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.866Z",
+         "updated_at": "2018-10-03T14:26:24.175Z"
+      },
+      "shares_count": 0,
+      "created_at": "2019-04-09T12:59:40.055Z",
+      "published_at": "2019-04-09T13:03:22.575Z",
+      "terms_of_service": true,
+      "updated_at": "2021-05-11T15:10:32.347Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 6862,
+         "provider": "email",
+         "cpf": null,
+         "name": "Secretaria de Educação Básica",
+         "description": "Secretaria de Educação Básica do Ministério da Educação",
+         "submitter_request": "default",
+         "education": null,
+         "score": 0.042769,
+         "cover": "/system/users/covers/000/006/862/original/data?1554815539",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/006/862/original/data?1554815570",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 165,
+         "learning_objects_count": 68,
+         "collections_count": 1,
+         "created_at": "2018-09-14T19:56:57.813Z",
+         "updated_at": "2021-11-05T15:01:42.014Z",
+         "terms_accepted_at": null,
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 376065,
+            "name": "EF03LP20",
+            "created_at": "2020-03-20T13:21:21.685Z",
+            "updated_at": "2020-03-20T13:21:21.685Z"
+         },
+         {
+            "id": 376064,
+            "name": "EF05LP15",
+            "created_at": "2020-03-20T13:21:21.607Z",
+            "updated_at": "2020-03-20T13:21:21.607Z"
+         },
+         {
+            "id": 376063,
+            "name": "EF04LP14",
+            "created_at": "2020-03-20T13:21:21.506Z",
+            "updated_at": "2020-03-20T13:21:21.506Z"
+         },
+         {
+            "id": 376062,
+            "name": "EF03LP18",
+            "created_at": "2020-03-20T13:21:21.427Z",
+            "updated_at": "2020-03-20T13:21:21.427Z"
+         },
+         {
+            "id": 23243,
+            "name": "jogo",
+            "created_at": "2017-04-03T18:59:29.673Z",
+            "updated_at": "2017-04-03T18:59:29.673Z"
+         },
+         {
+            "id": 29128,
+            "name": "bncc",
+            "created_at": "2018-07-25T21:33:00.153Z",
+            "updated_at": "2018-07-25T21:33:00.153Z"
+         },
+         {
+            "id": 20098,
+            "name": "mídia",
+            "created_at": "2017-03-22T18:14:06.548Z",
+            "updated_at": "2017-03-22T18:14:06.548Z"
+         },
+         {
+            "id": 32198,
+            "name": "midiático",
+            "created_at": "2019-04-09T13:01:47.839Z",
+            "updated_at": "2019-04-09T13:01:47.839Z"
+         },
+         {
+            "id": 32197,
+            "name": "jornalístico",
+            "created_at": "2019-04-09T13:01:44.795Z",
+            "updated_at": "2019-04-09T13:01:44.795Z"
+         },
+         {
+            "id": 23415,
+            "name": "jornal",
+            "created_at": "2017-07-05T18:42:53.089Z",
+            "updated_at": "2017-07-05T18:42:53.089Z"
+         },
+         {
+            "id": 19044,
+            "name": "campo",
+            "created_at": "2017-03-22T18:12:22.262Z",
+            "updated_at": "2017-03-22T18:12:22.262Z"
+         },
+         {
+            "id": 27658,
+            "name": "leitor",
+            "created_at": "2018-02-28T15:09:43.006Z",
+            "updated_at": "2018-02-28T15:09:43.006Z"
+         },
+         {
+            "id": 25489,
+            "name": "carta",
+            "created_at": "2017-11-09T17:43:50.030Z",
+            "updated_at": "2017-11-09T17:43:50.030Z"
+         },
+         {
+            "id": 23710,
+            "name": "entrevista",
+            "created_at": "2017-10-06T14:09:20.460Z",
+            "updated_at": "2017-10-06T14:09:20.460Z"
+         },
+         {
+            "id": 24731,
+            "name": "revista",
+            "created_at": "2017-10-14T03:04:47.712Z",
+            "updated_at": "2017-10-14T03:04:47.712Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 4,
+            "name": "Língua Portuguesa",
+            "created_at": "2017-03-22T16:56:08.059Z",
+            "updated_at": "2017-03-22T16:56:08.059Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 46424,
+            "name": "Revista_Digital_da_Crian_a.rar",
+            "retrieve_link": "/bitstreams/50813/retrieve",
+            "description": "",
+            "format": "Unknown",
+            "mime_type": "application/x-rar",
+            "size": 42637465,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 35900,
+            "created_at": "2019-04-09T13:00:15.405Z",
+            "updated_at": "2020-03-24T00:23:17.330Z",
+            "id_dspace": "19b387ad-746a-410c-883b-0858ec00848e",
+            "thumbnail": "",
+            "cache_link": "/attachments/46424/Revista_Digital_da_Crian_a.rar",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 4.28571428571429,
+      "liked": false,
+      "likes_count": 13,
+      "downloads_count": 1954,
+      "views_count": 3175,
+      "reviewed": false,
+      "complained": false,
+      "id": 34570,
+      "name": "De olho na lista",
+      "description": "O recurso De olho na lista tem como objetivo apresentar e sistematizar características do gênero lista, bem como trabalhar com a produção desse gênero. A aplicação funciona em dois modos: desafio das listas e editor de listas. O primeiro modo divide-se em sete fases, apresentando algumas histórias-problema com três personagens ilustrados: uma mulher adulta, um homem adulto e um jovem.",
+      "author": "Raquel Santiago Freire, Mércia Valéria Campos Figueiredo, Rayssa Araújo Hitzschky, Danilo Coêlho Sousa, José Aires de Castro Filho",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/034/570/original/data?1583174660",
+      "object_type": "Jogo",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/50022/retrieve",
+      "default_attachment_id": 45932,
+      "default_mime_type": "application/octet-stream",
+      "score": 0.433199,
+      "link": null,
+      "software": null,
+      "license": {
+         "id": 5,
+         "name": "CC BY-NC-SA",
+         "description": "Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos",
+         "image_url": "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.866Z",
+         "updated_at": "2018-10-03T14:26:24.175Z"
+      },
+      "shares_count": 0,
+      "created_at": "2019-01-03T15:03:05.870Z",
+      "published_at": "2019-01-03T15:05:03.008Z",
+      "terms_of_service": true,
+      "updated_at": "2021-05-08T15:40:54.745Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 6862,
+         "provider": "email",
+         "cpf": null,
+         "name": "Secretaria de Educação Básica",
+         "description": "Secretaria de Educação Básica do Ministério da Educação",
+         "submitter_request": "default",
+         "education": null,
+         "score": 0.042769,
+         "cover": "/system/users/covers/000/006/862/original/data?1554815539",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/006/862/original/data?1554815570",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 165,
+         "learning_objects_count": 68,
+         "collections_count": 1,
+         "created_at": "2018-09-14T19:56:57.813Z",
+         "updated_at": "2021-11-05T15:01:42.014Z",
+         "terms_accepted_at": null,
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 376041,
+            "name": "EF01LP20",
+            "created_at": "2020-03-20T12:51:51.002Z",
+            "updated_at": "2020-03-20T12:51:51.002Z"
+         },
+         {
+            "id": 376040,
+            "name": "EF01LP17",
+            "created_at": "2020-03-20T12:51:50.886Z",
+            "updated_at": "2020-03-20T12:51:50.886Z"
+         },
+         {
+            "id": 376039,
+            "name": "EF01LP08",
+            "created_at": "2020-03-20T12:51:50.540Z",
+            "updated_at": "2020-03-20T12:51:50.540Z"
+         },
+         {
+            "id": 376038,
+            "name": "EF12LP04",
+            "created_at": "2020-03-20T12:51:50.422Z",
+            "updated_at": "2020-03-20T12:51:50.422Z"
+         },
+         {
+            "id": 376037,
+            "name": "EF12LP01",
+            "created_at": "2020-03-20T12:51:50.339Z",
+            "updated_at": "2020-03-20T12:51:50.339Z"
+         },
+         {
+            "id": 376036,
+            "name": "EF01LP02",
+            "created_at": "2020-03-20T12:51:50.257Z",
+            "updated_at": "2020-03-20T12:51:50.257Z"
+         },
+         {
+            "id": 23339,
+            "name": "game",
+            "created_at": "2017-05-10T13:38:33.641Z",
+            "updated_at": "2017-05-10T13:38:33.641Z"
+         },
+         {
+            "id": 23381,
+            "name": "escrita",
+            "created_at": "2017-05-25T16:07:16.512Z",
+            "updated_at": "2017-05-25T16:07:16.512Z"
+         },
+         {
+            "id": 30545,
+            "name": "vida cotidiana",
+            "created_at": "2019-01-03T15:04:01.680Z",
+            "updated_at": "2019-01-03T15:04:01.680Z"
+         },
+         {
+            "id": 28337,
+            "name": "BNCC",
+            "created_at": "2018-03-26T01:07:33.500Z",
+            "updated_at": "2018-03-26T01:07:33.500Z"
+         },
+         {
+            "id": 30544,
+            "name": "lista",
+            "created_at": "2019-01-03T15:03:51.921Z",
+            "updated_at": "2019-01-03T15:03:51.921Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 4,
+            "name": "Língua Portuguesa",
+            "created_at": "2017-03-22T16:56:08.059Z",
+            "updated_at": "2017-03-22T16:56:08.059Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 45932,
+            "name": "De_olho_na_lista.zip",
+            "retrieve_link": "/bitstreams/50022/retrieve",
+            "description": "",
+            "format": "Unknown",
+            "mime_type": "application/octet-stream",
+            "size": 31368403,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 34570,
+            "created_at": "2019-01-03T15:03:42.075Z",
+            "updated_at": "2020-02-19T15:33:25.749Z",
+            "id_dspace": "20e79655-9c0e-43df-8699-31d45f8d5076",
+            "thumbnail": "",
+            "cache_link": "/attachments/45932/De_olho_na_lista.zip",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 3.5,
+      "liked": false,
+      "likes_count": 13,
+      "downloads_count": 2519,
+      "views_count": 4259,
+      "reviewed": false,
+      "complained": false,
+      "id": 34566,
+      "name": "Brincando com a formas",
+      "description": "O RED Brincando com as Formas explora o cenário de um quarto infantil. Neste cenário, a criança entra como se estivesse em um jogo em primeira pessoa. Haverá 3 objetos animados que correspondem a desafios a serem realizados pela criança para que possa receber as chaves de um objeto parecido com uma nave em formato de tetraedro que o levará ao planeta TETRIX. Cada um destes objetos corresponderá a uma atividade diferente. O recurso é um jogo no qual os alunos irão trabalhar conceitos da Geometria, como tamanhos e cores, de forma lúdica o que possibilitará o desenvolvimento da criança em diversos conhecimentos introdutórios à Matemática conforme a BNCC.",
+      "author": "Juscilene Braga de Castro,Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lydia Monteiro, José Aires de Castro Filho",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/034/566/original/data?1583174856",
+      "object_type": "Jogo",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/50018/retrieve",
+      "default_attachment_id": 45928,
+      "default_mime_type": "application/octet-stream",
+      "score": 0.431437,
+      "link": null,
+      "software": null,
+      "license": {
+         "id": 5,
+         "name": "CC BY-NC-SA",
+         "description": "Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos",
+         "image_url": "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.866Z",
+         "updated_at": "2018-10-03T14:26:24.175Z"
+      },
+      "shares_count": 0,
+      "created_at": "2019-01-03T14:33:12.104Z",
+      "published_at": "2020-10-19T16:31:09.881Z",
+      "terms_of_service": true,
+      "updated_at": "2021-05-02T15:07:21.649Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 6862,
+         "provider": "email",
+         "cpf": null,
+         "name": "Secretaria de Educação Básica",
+         "description": "Secretaria de Educação Básica do Ministério da Educação",
+         "submitter_request": "default",
+         "education": null,
+         "score": 0.042769,
+         "cover": "/system/users/covers/000/006/862/original/data?1554815539",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/006/862/original/data?1554815570",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 165,
+         "learning_objects_count": 68,
+         "collections_count": 1,
+         "created_at": "2018-09-14T19:56:57.813Z",
+         "updated_at": "2021-11-05T15:01:42.014Z",
+         "terms_accepted_at": null,
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 385498,
+            "name": "MIDE",
+            "created_at": "2020-09-01T18:09:15.376Z",
+            "updated_at": "2020-09-01T18:09:15.376Z"
+         },
+         {
+            "id": 376044,
+            "name": "EF02MA15",
+            "created_at": "2020-03-20T13:02:13.703Z",
+            "updated_at": "2020-03-20T13:02:13.703Z"
+         },
+         {
+            "id": 376043,
+            "name": "EF02MA14",
+            "created_at": "2020-03-20T13:02:13.613Z",
+            "updated_at": "2020-03-20T13:02:13.613Z"
+         },
+         {
+            "id": 376042,
+            "name": "EF02MA10",
+            "created_at": "2020-03-20T13:02:13.512Z",
+            "updated_at": "2020-03-20T13:02:13.512Z"
+         },
+         {
+            "id": 23339,
+            "name": "game",
+            "created_at": "2017-05-10T13:38:33.641Z",
+            "updated_at": "2017-05-10T13:38:33.641Z"
+         },
+         {
+            "id": 4762,
+            "name": "geometria",
+            "created_at": "2017-03-22T17:59:20.001Z",
+            "updated_at": "2017-03-22T17:59:20.002Z"
+         },
+         {
+            "id": 25291,
+            "name": "formas",
+            "created_at": "2017-11-09T16:48:17.631Z",
+            "updated_at": "2017-11-09T16:48:17.631Z"
+         },
+         {
+            "id": 23243,
+            "name": "jogo",
+            "created_at": "2017-04-03T18:59:29.673Z",
+            "updated_at": "2017-04-03T18:59:29.673Z"
+         },
+         {
+            "id": 28337,
+            "name": "BNCC",
+            "created_at": "2018-03-26T01:07:33.500Z",
+            "updated_at": "2018-03-26T01:07:33.500Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 12,
+            "name": "Matemática",
+            "created_at": "2017-03-22T16:56:08.111Z",
+            "updated_at": "2017-03-22T16:56:08.111Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 3,
+            "name": "Ensino Fundamental II  (do 6º até o 9º ano)",
+            "created_at": "2017-03-22T16:56:08.184Z",
+            "updated_at": "2017-03-22T16:56:08.184Z"
+         },
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         },
+         {
+            "id": 1,
+            "name": "Educação Infantil",
+            "created_at": "2017-03-22T16:56:08.170Z",
+            "updated_at": "2017-03-22T16:56:08.170Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 45928,
+            "name": "Brincando_com_as_formas.zip",
+            "retrieve_link": "/bitstreams/50018/retrieve",
+            "description": "",
+            "format": "Unknown",
+            "mime_type": "application/octet-stream",
+            "size": 30809597,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 34566,
+            "created_at": "2019-01-03T14:33:36.998Z",
+            "updated_at": "2020-02-19T15:33:25.620Z",
+            "id_dspace": "a4dff032-417e-4bd6-a3db-8ab18942c2e4",
+            "thumbnail": "",
+            "cache_link": "/attachments/45928/Brincando_com_as_formas.zip",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 5,
+      "liked": false,
+      "likes_count": 13,
+      "downloads_count": 263,
+      "views_count": 475,
+      "reviewed": false,
+      "complained": false,
+      "id": 357691,
+      "name": "Por que eu tenho que usar cadeirinha?",
+      "description": "Animação com o intuito de discutir com crianças dos cinco primeiros anos do ensino fundamental e da educação infantil como reconhecer e identificar os tipos de equipamentos de retenção infantil existentes, quando e como devem ser utilizados, bem como porque é necessário descartá-los. A animação tem 5 minutos de duração e foi desenvolvida em resposta à pandemia da COVID-19, que impôs o ensino remoto e fez surgir a necessidade de criar novas estratégias para discutir temas de segurança no trânsito com as crianças. Foram considerados os princípios da teoria piagetiana sobre desenvolvimento tanto na concepção geral do projeto como na busca, ainda que virtual, de interação com a criança. A animação pode ser visualizada em aparelhos eletrônicos como computadores, tablets e smartphones.\n\nComo citar: Todt, T. B., Pelizzaro, A. L. Z., Araujo, M. C. Q., & Bianchi, A. (2020, Setembro, 21). Por que eu tenho que usar cadeirinha? [Animação]. Recuperado de https://plataformaintegrada.mec.gov.br ISBN: 978-65-86233-73-5",
+      "author": "Thomas Bianchi Todt, Ana Lídia Zaponi Pelizzaro, Maria Clara Quaresma de Araújo, Alessandra Sant´Anna Bianchi",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/357/691/original/data?1600736407",
+      "object_type": "Animação",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         },
+         {
+            "id": 19,
+            "name": "LIBRAS",
+            "created_at": "2019-02-19T13:48:18.329Z",
+            "updated_at": "2019-02-19T13:48:18.329Z",
+            "code": "libras"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/48c2adc3-d21e-4954-8715-f5d566762fd0/retrieve",
+      "default_attachment_id": 355660,
+      "default_mime_type": "video/mp4",
+      "score": 0.385234,
+      "link": null,
+      "software": null,
+      "license": {
+         "id": 12,
+         "name": "CC BY-NC-ND 3.0 BR",
+         "description": "Atribuição-NãoComercial-SemDerivações 3.0 Brasil. Esta licença permite compartilhar, copiar e redistribuir o material em qualquer suporte ou formato",
+         "image_url": "https://licensebuttons.net/l/by-nc-nd/3.0/br/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/br/",
+         "created_at": "2020-02-21T15:28:33.009Z",
+         "updated_at": "2020-03-02T14:19:43.627Z"
+      },
+      "shares_count": 0,
+      "created_at": "2020-09-22T00:48:33.626Z",
+      "published_at": "2020-09-22T00:59:20.239Z",
+      "terms_of_service": true,
+      "updated_at": "2021-06-02T14:06:26.623Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 11481,
+         "provider": "email",
+         "cpf": null,
+         "name": "Alessandra Bianchi",
+         "description": "Professora no Departamento de Psicologia da Universidade Federal do Paraná (UFPR)",
+         "submitter_request": "requested",
+         "education": null,
+         "score": 0.120688,
+         "cover": "",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/011/481/original/data?1592107910",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 13,
+         "learning_objects_count": 14,
+         "collections_count": 2,
+         "created_at": "2019-05-18T23:40:44.353Z",
+         "updated_at": "2022-06-18T11:28:05.430Z",
+         "terms_accepted_at": "2020-05-26T03:53:27.137Z",
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 385544,
+            "name": "assento de elevação",
+            "created_at": "2020-09-21T15:28:05.532Z",
+            "updated_at": "2020-09-21T15:28:05.532Z"
+         },
+         {
+            "id": 32433,
+            "name": "cadeirinha",
+            "created_at": "2019-05-27T23:47:11.180Z",
+            "updated_at": "2019-05-27T23:47:11.180Z"
+         },
+         {
+            "id": 114005,
+            "name": "acidente",
+            "created_at": "2020-02-28T12:48:56.894Z",
+            "updated_at": "2020-02-28T12:48:56.894Z"
+         },
+         {
+            "id": 24625,
+            "name": "prevenção",
+            "created_at": "2017-10-13T22:16:41.379Z",
+            "updated_at": "2017-10-13T22:16:41.379Z"
+         },
+         {
+            "id": 15054,
+            "name": "segurança",
+            "created_at": "2017-03-22T18:07:54.275Z",
+            "updated_at": "2017-03-22T18:07:54.275Z"
+         },
+         {
+            "id": 24193,
+            "name": "trânsito",
+            "created_at": "2017-10-06T15:21:45.894Z",
+            "updated_at": "2017-10-06T15:21:45.894Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 21,
+            "name": "Educação Ambiental",
+            "created_at": "2018-10-03T14:26:24.306Z",
+            "updated_at": "2018-10-03T14:26:24.306Z",
+            "theme": true
+         },
+         {
+            "id": 20,
+            "name": "Direitos Humanos",
+            "created_at": "2018-10-03T14:26:24.300Z",
+            "updated_at": "2018-10-03T14:26:24.300Z",
+            "theme": true
+         },
+         {
+            "id": 14,
+            "name": "Sociologia",
+            "created_at": "2017-03-22T16:56:08.123Z",
+            "updated_at": "2017-03-22T16:56:08.123Z",
+            "theme": false
+         },
+         {
+            "id": 17,
+            "name": "Outros",
+            "created_at": "2017-03-22T16:56:08.141Z",
+            "updated_at": "2017-03-22T16:56:08.141Z",
+            "theme": false
+         },
+         {
+            "id": 10,
+            "name": "Geografia",
+            "created_at": "2017-03-22T16:56:08.098Z",
+            "updated_at": "2017-03-22T16:56:08.098Z",
+            "theme": false
+         },
+         {
+            "id": 4,
+            "name": "Língua Portuguesa",
+            "created_at": "2017-03-22T16:56:08.059Z",
+            "updated_at": "2017-03-22T16:56:08.059Z",
+            "theme": false
+         },
+         {
+            "id": 7,
+            "name": "Educação Física",
+            "created_at": "2017-03-22T16:56:08.079Z",
+            "updated_at": "2017-03-22T16:56:08.079Z",
+            "theme": false
+         },
+         {
+            "id": 5,
+            "name": "Biologia",
+            "created_at": "2017-03-22T16:56:08.066Z",
+            "updated_at": "2017-03-22T16:56:08.066Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 355660,
+            "name": "cadeirinha40.mp4",
+            "retrieve_link": "/rest/bitstreams/48c2adc3-d21e-4954-8715-f5d566762fd0/retrieve",
+            "description": "",
+            "format": "Unknown",
+            "mime_type": "video/mp4",
+            "size": 71286583,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 357691,
+            "created_at": "2020-09-22T00:54:56.413Z",
+            "updated_at": "2020-10-27T02:19:27.671Z",
+            "id_dspace": "48c2adc3-d21e-4954-8715-f5d566762fd0",
+            "thumbnail": "",
+            "cache_link": "/attachments/355660/cadeirinha40.mp4",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 4.33333333333333,
+      "liked": false,
+      "likes_count": 7,
+      "downloads_count": 1372,
+      "views_count": 2440,
+      "reviewed": false,
+      "complained": false,
+      "id": 36677,
+      "name": "É o Bicho 2.0",
+      "description": "Tendo como contexto a extinção de animais da Região Amazônica, O RED É o Bicho 2.0 explora habilidades presentes em várias unidades temáticas da BNCC.",
+      "author": "Juscileide Braga de Castro, Maria de Fátima Costa de Souza, Marcia Duarte Medeiros, Lídya de Lima Monteiro, Joyce da Silva Sousa, José Aires de Castro Filho",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/036/677/original/data?1583174910",
+      "object_type": "Jogo",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/51144/retrieve",
+      "default_attachment_id": 46578,
+      "default_mime_type": "application/x-rar",
+      "score": 0.384565,
+      "link": null,
+      "software": null,
+      "license": {
+         "id": 5,
+         "name": "CC BY-NC-SA",
+         "description": "Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos",
+         "image_url": "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.866Z",
+         "updated_at": "2018-10-03T14:26:24.175Z"
+      },
+      "shares_count": 0,
+      "created_at": "2019-10-09T11:20:41.894Z",
+      "published_at": "2020-10-19T16:31:27.283Z",
+      "terms_of_service": true,
+      "updated_at": "2021-03-12T14:15:27.134Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 6862,
+         "provider": "email",
+         "cpf": null,
+         "name": "Secretaria de Educação Básica",
+         "description": "Secretaria de Educação Básica do Ministério da Educação",
+         "submitter_request": "default",
+         "education": null,
+         "score": 0.042769,
+         "cover": "/system/users/covers/000/006/862/original/data?1554815539",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/006/862/original/data?1554815570",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 165,
+         "learning_objects_count": 68,
+         "collections_count": 1,
+         "created_at": "2018-09-14T19:56:57.813Z",
+         "updated_at": "2021-11-05T15:01:42.014Z",
+         "terms_accepted_at": null,
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 376072,
+            "name": "EF03MA27",
+            "created_at": "2020-03-20T13:25:24.163Z",
+            "updated_at": "2020-03-20T13:25:24.163Z"
+         },
+         {
+            "id": 376071,
+            "name": "EF03MA26",
+            "created_at": "2020-03-20T13:25:24.052Z",
+            "updated_at": "2020-03-20T13:25:24.052Z"
+         },
+         {
+            "id": 376070,
+            "name": "EF03MA12",
+            "created_at": "2020-03-20T13:25:23.977Z",
+            "updated_at": "2020-03-20T13:25:23.977Z"
+         },
+         {
+            "id": 376069,
+            "name": "EF03MA10",
+            "created_at": "2020-03-20T13:25:23.901Z",
+            "updated_at": "2020-03-20T13:25:23.901Z"
+         },
+         {
+            "id": 376068,
+            "name": "EF03MA06",
+            "created_at": "2020-03-20T13:25:23.817Z",
+            "updated_at": "2020-03-20T13:25:23.817Z"
+         },
+         {
+            "id": 376067,
+            "name": "EF03MA05",
+            "created_at": "2020-03-20T13:25:23.739Z",
+            "updated_at": "2020-03-20T13:25:23.739Z"
+         },
+         {
+            "id": 376066,
+            "name": "EF03MA03",
+            "created_at": "2020-03-20T13:25:23.664Z",
+            "updated_at": "2020-03-20T13:25:23.664Z"
+         },
+         {
+            "id": 4762,
+            "name": "geometria",
+            "created_at": "2017-03-22T17:59:20.001Z",
+            "updated_at": "2017-03-22T17:59:20.002Z"
+         },
+         {
+            "id": 8880,
+            "name": "álgebra",
+            "created_at": "2017-03-22T18:02:22.659Z",
+            "updated_at": "2017-03-22T18:02:22.659Z"
+         },
+         {
+            "id": 23243,
+            "name": "jogo",
+            "created_at": "2017-04-03T18:59:29.673Z",
+            "updated_at": "2017-04-03T18:59:29.673Z"
+         },
+         {
+            "id": 28337,
+            "name": "BNCC",
+            "created_at": "2018-03-26T01:07:33.500Z",
+            "updated_at": "2018-03-26T01:07:33.500Z"
+         },
+         {
+            "id": 33106,
+            "name": "amazonia",
+            "created_at": "2019-10-09T11:25:03.159Z",
+            "updated_at": "2019-10-09T11:25:03.159Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 12,
+            "name": "Matemática",
+            "created_at": "2017-03-22T16:56:08.111Z",
+            "updated_at": "2017-03-22T16:56:08.111Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 46578,
+            "name": "e_o_Bicho_2.0.rar",
+            "retrieve_link": "/bitstreams/51144/retrieve",
+            "description": "",
+            "format": "Unknown",
+            "mime_type": "application/x-rar",
+            "size": 47281728,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 36677,
+            "created_at": "2019-10-09T11:24:16.348Z",
+            "updated_at": "2020-03-24T01:50:50.166Z",
+            "id_dspace": "bfc07ba1-9874-4cbb-9df1-3d0328d8027f",
+            "thumbnail": "",
+            "cache_link": "/attachments/46578/e_o_Bicho_2.0.rar",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 5,
+      "liked": false,
+      "likes_count": 11,
+      "downloads_count": 165,
+      "views_count": 454,
+      "reviewed": false,
+      "complained": false,
+      "id": 357725,
+      "name": "Você sabia? Você também faz parte do trânsito.",
+      "description": "É um vídeo interativo em que as crianças devem encontrar os elementos que fazem parte do trânsito em diferentes cenários. Tem como objetivo promover que as crianças se reconheçam como participantes do trânsito, assim como reconheçam as outras partes integrantes deste sistema, pois é importante que elas tenham esse discernimento para evitar acidentes e outras complicações. Em cada cenário o foco é direcionado a elementos distintos, variando conforme suas principais características. Além do vídeo ser interativo, ele convida as crianças a pensarem nas perguntas que são feitas, não entregando as respostas rapidamente. Os elementos devem ser identificados através de dicas que buscam mostrar as funções e deveres dos componentes do trânsito. A criança tem um tempo pré-definido para associar as dicas aos elementos e encontrá-los na imagem. Após esse tempo, os elementos que foram apresentados através das dicas serão destacados. \nComo citar: Tascheck, T., Moro, D. T., Watanabe, L. H., & Bianchi, A. S. (2020, Setembro 22). Você sabia? Você também faz parte do trânsito. Recuperado de https://plataformaintegrada.mec.gov.br ISBN: 978-65-86233-69-8",
+      "author": "Thomas Tascheck, Daiane Teixeira Moro, Leonardo Haruki Watanabe e Alessandra Sant´Anna Bianchi",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/357/725/original/data?1601300979",
+      "object_type": "Vídeo",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         },
+         {
+            "id": 19,
+            "name": "LIBRAS",
+            "created_at": "2019-02-19T13:48:18.329Z",
+            "updated_at": "2019-02-19T13:48:18.329Z",
+            "code": "libras"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/dafde97a-9789-4fb1-9d46-536236ed2b51/retrieve",
+      "default_attachment_id": 355673,
+      "default_mime_type": "video/mp4",
+      "score": 0.380135,
+      "link": null,
+      "software": null,
+      "license": {
+         "id": 12,
+         "name": "CC BY-NC-ND 3.0 BR",
+         "description": "Atribuição-NãoComercial-SemDerivações 3.0 Brasil. Esta licença permite compartilhar, copiar e redistribuir o material em qualquer suporte ou formato",
+         "image_url": "https://licensebuttons.net/l/by-nc-nd/3.0/br/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-nd/3.0/br/",
+         "created_at": "2020-02-21T15:28:33.009Z",
+         "updated_at": "2020-03-02T14:19:43.627Z"
+      },
+      "shares_count": 0,
+      "created_at": "2020-09-28T13:39:11.723Z",
+      "published_at": "2020-09-28T13:50:24.614Z",
+      "terms_of_service": true,
+      "updated_at": "2021-01-05T00:30:01.114Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 11481,
+         "provider": "email",
+         "cpf": null,
+         "name": "Alessandra Bianchi",
+         "description": "Professora no Departamento de Psicologia da Universidade Federal do Paraná (UFPR)",
+         "submitter_request": "requested",
+         "education": null,
+         "score": 0.120688,
+         "cover": "",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/011/481/original/data?1592107910",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 13,
+         "learning_objects_count": 14,
+         "collections_count": 2,
+         "created_at": "2019-05-18T23:40:44.353Z",
+         "updated_at": "2022-06-18T11:28:05.430Z",
+         "terms_accepted_at": "2020-05-26T03:53:27.137Z",
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 4030,
+            "name": "saúde",
+            "created_at": "2017-03-22T17:58:47.946Z",
+            "updated_at": "2017-03-22T17:58:47.946Z"
+         },
+         {
+            "id": 1459,
+            "name": "cidadania",
+            "created_at": "2017-03-22T17:57:46.837Z",
+            "updated_at": "2017-03-22T17:57:46.837Z"
+         },
+         {
+            "id": 24625,
+            "name": "prevenção",
+            "created_at": "2017-10-13T22:16:41.379Z",
+            "updated_at": "2017-10-13T22:16:41.379Z"
+         },
+         {
+            "id": 114005,
+            "name": "acidente",
+            "created_at": "2020-02-28T12:48:56.894Z",
+            "updated_at": "2020-02-28T12:48:56.894Z"
+         },
+         {
+            "id": 15054,
+            "name": "segurança",
+            "created_at": "2017-03-22T18:07:54.275Z",
+            "updated_at": "2017-03-22T18:07:54.275Z"
+         },
+         {
+            "id": 24193,
+            "name": "trânsito",
+            "created_at": "2017-10-06T15:21:45.894Z",
+            "updated_at": "2017-10-06T15:21:45.894Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 21,
+            "name": "Educação Ambiental",
+            "created_at": "2018-10-03T14:26:24.306Z",
+            "updated_at": "2018-10-03T14:26:24.306Z",
+            "theme": true
+         },
+         {
+            "id": 20,
+            "name": "Direitos Humanos",
+            "created_at": "2018-10-03T14:26:24.300Z",
+            "updated_at": "2018-10-03T14:26:24.300Z",
+            "theme": true
+         },
+         {
+            "id": 14,
+            "name": "Sociologia",
+            "created_at": "2017-03-22T16:56:08.123Z",
+            "updated_at": "2017-03-22T16:56:08.123Z",
+            "theme": false
+         },
+         {
+            "id": 8,
+            "name": "Filosofia",
+            "created_at": "2017-03-22T16:56:08.085Z",
+            "updated_at": "2017-03-22T16:56:08.085Z",
+            "theme": false
+         },
+         {
+            "id": 17,
+            "name": "Outros",
+            "created_at": "2017-03-22T16:56:08.141Z",
+            "updated_at": "2017-03-22T16:56:08.141Z",
+            "theme": false
+         },
+         {
+            "id": 4,
+            "name": "Língua Portuguesa",
+            "created_at": "2017-03-22T16:56:08.059Z",
+            "updated_at": "2017-03-22T16:56:08.059Z",
+            "theme": false
+         },
+         {
+            "id": 10,
+            "name": "Geografia",
+            "created_at": "2017-03-22T16:56:08.098Z",
+            "updated_at": "2017-03-22T16:56:08.098Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 355673,
+            "name": "voce_tambem_faz_parte_do_transito.mp4",
+            "retrieve_link": "/rest/bitstreams/dafde97a-9789-4fb1-9d46-536236ed2b51/retrieve",
+            "description": "",
+            "format": "Unknown",
+            "mime_type": "video/mp4",
+            "size": 280056103,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 357725,
+            "created_at": "2020-09-28T13:45:32.390Z",
+            "updated_at": "2020-10-27T02:19:25.253Z",
+            "id_dspace": "dafde97a-9789-4fb1-9d46-536236ed2b51",
+            "thumbnail": "",
+            "cache_link": "/attachments/355673/voce_tambem_faz_parte_do_transito.mp4",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 5,
+      "liked": false,
+      "likes_count": 8,
+      "downloads_count": 374,
+      "views_count": 917,
+      "reviewed": false,
+      "complained": false,
+      "id": 36310,
+      "name": "Livro Projetos de Educação para o Trânsito",
+      "description": "O livro Projetos de Educação para o Trânsito reúne os esforços de profissionais de norte a sul do país que têm se empenhado em, ao longo dos anos, promover a segurança de trânsito trabalhando com a temática no contexto educativo. A maior parte dos projetos foi desenvolvida no ensino fundamental, no entanto há experiências na educação infantil e com adultos.",
+      "author": "Alessandra Bianchi",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/036/310/original/data?1564001519",
+      "object_type": "Livro digital",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": null,
+      "default_attachment_id": null,
+      "default_mime_type": null,
+      "score": 0.378322,
+      "link": "https://www.editoracrv.com.br/produtos/detalhes/32456-projetos-de-educacao-para-o-transito",
+      "software": null,
+      "license": {
+         "id": 5,
+         "name": "CC BY-NC-SA",
+         "description": "Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais, desde que atribuam o devido crédito e que licenciem as novas criações sob termos idênticos",
+         "image_url": "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png",
+         "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR",
+         "created_at": "2017-03-22T16:56:06.866Z",
+         "updated_at": "2018-10-03T14:26:24.175Z"
+      },
+      "shares_count": 0,
+      "created_at": "2019-07-24T20:42:54.875Z",
+      "published_at": "2019-07-24T20:49:01.583Z",
+      "terms_of_service": true,
+      "updated_at": "2020-02-19T15:34:40.748Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 11481,
+         "provider": "email",
+         "cpf": null,
+         "name": "Alessandra Bianchi",
+         "description": "Professora no Departamento de Psicologia da Universidade Federal do Paraná (UFPR)",
+         "submitter_request": "requested",
+         "education": null,
+         "score": 0.120688,
+         "cover": "",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/011/481/original/data?1592107910",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 13,
+         "learning_objects_count": 14,
+         "collections_count": 2,
+         "created_at": "2019-05-18T23:40:44.353Z",
+         "updated_at": "2022-06-18T11:28:05.430Z",
+         "terms_accepted_at": "2020-05-26T03:53:27.137Z",
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 24958,
+            "name": "acidentes",
+            "created_at": "2017-10-14T04:52:39.437Z",
+            "updated_at": "2017-10-14T04:52:39.437Z"
+         },
+         {
+            "id": 24625,
+            "name": "prevenção",
+            "created_at": "2017-10-13T22:16:41.379Z",
+            "updated_at": "2017-10-13T22:16:41.379Z"
+         },
+         {
+            "id": 24193,
+            "name": "trânsito",
+            "created_at": "2017-10-06T15:21:45.894Z",
+            "updated_at": "2017-10-06T15:21:45.894Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 20,
+            "name": "Direitos Humanos",
+            "created_at": "2018-10-03T14:26:24.300Z",
+            "updated_at": "2018-10-03T14:26:24.300Z",
+            "theme": true
+         },
+         {
+            "id": 21,
+            "name": "Educação Ambiental",
+            "created_at": "2018-10-03T14:26:24.306Z",
+            "updated_at": "2018-10-03T14:26:24.306Z",
+            "theme": true
+         },
+         {
+            "id": 4,
+            "name": "Língua Portuguesa",
+            "created_at": "2017-03-22T16:56:08.059Z",
+            "updated_at": "2017-03-22T16:56:08.059Z",
+            "theme": false
+         },
+         {
+            "id": 12,
+            "name": "Matemática",
+            "created_at": "2017-03-22T16:56:08.111Z",
+            "updated_at": "2017-03-22T16:56:08.111Z",
+            "theme": false
+         },
+         {
+            "id": 17,
+            "name": "Outros",
+            "created_at": "2017-03-22T16:56:08.141Z",
+            "updated_at": "2017-03-22T16:56:08.141Z",
+            "theme": false
+         },
+         {
+            "id": 13,
+            "name": "Química",
+            "created_at": "2017-03-22T16:56:08.116Z",
+            "updated_at": "2017-03-22T16:56:08.116Z",
+            "theme": false
+         },
+         {
+            "id": 14,
+            "name": "Sociologia",
+            "created_at": "2017-03-22T16:56:08.123Z",
+            "updated_at": "2017-03-22T16:56:08.123Z",
+            "theme": false
+         },
+         {
+            "id": 3,
+            "name": "Arte",
+            "created_at": "2017-03-22T16:56:08.052Z",
+            "updated_at": "2017-03-22T16:56:08.052Z",
+            "theme": false
+         },
+         {
+            "id": 9,
+            "name": "Física",
+            "created_at": "2017-03-22T16:56:08.092Z",
+            "updated_at": "2017-03-22T16:56:08.092Z",
+            "theme": false
+         },
+         {
+            "id": 10,
+            "name": "Geografia",
+            "created_at": "2017-03-22T16:56:08.098Z",
+            "updated_at": "2017-03-22T16:56:08.098Z",
+            "theme": false
+         },
+         {
+            "id": 11,
+            "name": "História",
+            "created_at": "2017-03-22T16:56:08.105Z",
+            "updated_at": "2017-03-22T16:56:08.105Z",
+            "theme": false
+         },
+         {
+            "id": 7,
+            "name": "Educação Física",
+            "created_at": "2017-03-22T16:56:08.079Z",
+            "updated_at": "2017-03-22T16:56:08.079Z",
+            "theme": false
+         },
+         {
+            "id": 5,
+            "name": "Biologia",
+            "created_at": "2017-03-22T16:56:08.066Z",
+            "updated_at": "2017-03-22T16:56:08.066Z",
+            "theme": false
+         },
+         {
+            "id": 6,
+            "name": "Ciências da Natureza",
+            "created_at": "2017-03-22T16:56:08.072Z",
+            "updated_at": "2017-03-22T16:56:08.072Z",
+            "theme": false
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 6,
+            "name": "Outros",
+            "created_at": "2017-03-22T16:56:08.203Z",
+            "updated_at": "2017-03-22T16:56:08.203Z"
+         },
+         {
+            "id": 5,
+            "name": "Ensino Superior",
+            "created_at": "2017-03-22T16:56:08.196Z",
+            "updated_at": "2017-03-22T16:56:08.196Z"
+         },
+         {
+            "id": 4,
+            "name": "Ensino Médio",
+            "created_at": "2017-03-22T16:56:08.190Z",
+            "updated_at": "2017-03-22T16:56:08.190Z"
+         },
+         {
+            "id": 3,
+            "name": "Ensino Fundamental II  (do 6º até o 9º ano)",
+            "created_at": "2017-03-22T16:56:08.184Z",
+            "updated_at": "2017-03-22T16:56:08.184Z"
+         },
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         },
+         {
+            "id": 1,
+            "name": "Educação Infantil",
+            "created_at": "2017-03-22T16:56:08.170Z",
+            "updated_at": "2017-03-22T16:56:08.170Z"
+         }
+      ],
+      "attachments": []
+   },
+   {
+      "submission_id": null,
+      "state": "published",
+      "review_average": 5,
+      "liked": false,
+      "likes_count": 9,
+      "downloads_count": 845,
+      "views_count": 712,
+      "reviewed": false,
+      "complained": false,
+      "id": 36072,
+      "name": "Cartilha Bem-Vindo ao Trânsito",
+      "description": "Cartilha com orientações para educadores e pais sobre como crianças de zero a 12 anos devem ser cuidadas e orientadas no trânsito.",
+      "author": "ALessandra Sant´Anna Bianchi & Letícia Carol Gonçalves Weis",
+      "curator": null,
+      "thumbnail": "/system/learning_objects/thumbnails/000/036/072/original/data?1558228105",
+      "object_type": "Livro digital",
+      "language": [
+         {
+            "id": 1,
+            "name": "Português",
+            "created_at": "2017-03-22T16:56:06.782Z",
+            "updated_at": "2017-03-22T16:56:06.782Z",
+            "code": "pt"
+         }
+      ],
+      "default_attachment_location": "https://mecdb4.c3sl.ufpr.br:8443/rest/bitstreams/50876/retrieve",
+      "default_attachment_id": 46454,
+      "default_mime_type": "application/pdf",
+      "score": 0.376363,
+      "link": null,
+      "software": null,
+      "license": null,
+      "shares_count": 0,
+      "created_at": "2019-05-19T00:03:07.353Z",
+      "published_at": "2019-05-19T00:57:20.445Z",
+      "terms_of_service": null,
+      "updated_at": "2020-02-19T15:34:33.295Z",
+      "magnetlink": null,
+      "publisher": {
+         "email": null,
+         "followed": null,
+         "complained": false,
+         "id": 11481,
+         "provider": "email",
+         "cpf": null,
+         "name": "Alessandra Bianchi",
+         "description": "Professora no Departamento de Psicologia da Universidade Federal do Paraná (UFPR)",
+         "submitter_request": "requested",
+         "education": null,
+         "score": 0.120688,
+         "cover": "",
+         "role_ids": [
+            9,
+            11,
+            10,
+            1
+         ],
+         "institution_ids": [],
+         "avatar": "/system/users/avatars/000/011/481/original/data?1592107910",
+         "dspace_url": null,
+         "dspace_handle": null,
+         "dspace_sets": null,
+         "likes_count": 1,
+         "follows_count": 13,
+         "learning_objects_count": 14,
+         "collections_count": 2,
+         "created_at": "2019-05-18T23:40:44.353Z",
+         "updated_at": "2022-06-18T11:28:05.430Z",
+         "terms_accepted_at": "2020-05-26T03:53:27.137Z",
+         "state": "active"
+      },
+      "tags": [
+         {
+            "id": 15054,
+            "name": "segurança",
+            "created_at": "2017-03-22T18:07:54.275Z",
+            "updated_at": "2017-03-22T18:07:54.275Z"
+         },
+         {
+            "id": 24958,
+            "name": "acidentes",
+            "created_at": "2017-10-14T04:52:39.437Z",
+            "updated_at": "2017-10-14T04:52:39.437Z"
+         },
+         {
+            "id": 24625,
+            "name": "prevenção",
+            "created_at": "2017-10-13T22:16:41.379Z",
+            "updated_at": "2017-10-13T22:16:41.379Z"
+         },
+         {
+            "id": 24193,
+            "name": "trânsito",
+            "created_at": "2017-10-06T15:21:45.894Z",
+            "updated_at": "2017-10-06T15:21:45.894Z"
+         }
+      ],
+      "subjects": [
+         {
+            "id": 17,
+            "name": "Outros",
+            "created_at": "2017-03-22T16:56:08.141Z",
+            "updated_at": "2017-03-22T16:56:08.141Z",
+            "theme": false
+         },
+         {
+            "id": 21,
+            "name": "Educação Ambiental",
+            "created_at": "2018-10-03T14:26:24.306Z",
+            "updated_at": "2018-10-03T14:26:24.306Z",
+            "theme": true
+         },
+         {
+            "id": 20,
+            "name": "Direitos Humanos",
+            "created_at": "2018-10-03T14:26:24.300Z",
+            "updated_at": "2018-10-03T14:26:24.300Z",
+            "theme": true
+         }
+      ],
+      "educational_stages": [
+         {
+            "id": 6,
+            "name": "Outros",
+            "created_at": "2017-03-22T16:56:08.203Z",
+            "updated_at": "2017-03-22T16:56:08.203Z"
+         },
+         {
+            "id": 1,
+            "name": "Educação Infantil",
+            "created_at": "2017-03-22T16:56:08.170Z",
+            "updated_at": "2017-03-22T16:56:08.170Z"
+         },
+         {
+            "id": 2,
+            "name": "Ensino Fundamental I (1º até o 5º ano )",
+            "created_at": "2017-03-22T16:56:08.177Z",
+            "updated_at": "2017-03-22T16:56:08.177Z"
+         }
+      ],
+      "attachments": [
+         {
+            "id": 46454,
+            "name": "CARTILHA_BEM-VINDO_AO_TR_NSITO_-_Manual_de_Sobreviv_ncia_para_Pais_doc_web.pdf",
+            "retrieve_link": "/bitstreams/50876/retrieve",
+            "description": "Cartilha com orientação para educadores e pais sobre como crianças de zero a 12 anos devem ser cuidadas e orientadas no trânsito.",
+            "format": "Adobe PDF",
+            "mime_type": "application/pdf",
+            "size": 7867733,
+            "bundle_name": "ORIGINAL",
+            "learning_object_id": 36072,
+            "created_at": "2019-05-19T00:05:12.334Z",
+            "updated_at": "2020-02-19T15:34:33.347Z",
+            "id_dspace": "a3ea9101-2a3e-46c4-bf1b-0bc8b3c78b9a",
+            "thumbnail": "/system/learning_object/attachments/thumbnails/000/046/454/original/8a0d8e7ac5a6e31e106c.png?1558363199",
+            "cache_link": "/attachments/46454/CARTILHA_BEM-VINDO_AO_TR_NSITO_-_Manual_de_Sobreviv_ncia_para_Pais_doc_web.pdf",
+            "learning_object_attachment_id": null,
+            "learning_object_attachment_id_son": null
+         }
+      ]
+   }
+]

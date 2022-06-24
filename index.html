@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Vem Aprender!</title>
+</head>
+<body>
+    <div id="background"></div>
+    <div id="menu">
+        <div id="logo">
+            <img src="./resources/logo.png">
+        </div>
+        <ul>
+            <li><a href="#">Página Inicial</a></li>
+            <li><a href="#">Recursos Educacionais</a></li>
+            <li><a href="#">Suporte</a></li>
+        </ul>        
+        <div id="hamburguer">
+            ///
+        </div>
+        <div id="mode">
+            <span>Modo</span>
+            <label class="switch">
+                <input type="checkbox" onchange='switchMode(this);'>
+                <span class="slider"></span>
+            </label>
+        </div>
+    </div>
+    <div id="reds">
+        <div id="fullRedPage">
+            <div id="fullRedTop">
+                <p id="fullRedCategory"></p>
+                <p id="closeButton" onclick="closeRed()">Fechar</p>
+            </div>
+            <div class="redImage">
+                <img src="./resources/redImage.png">
+            </div>
+            <div id="fullRedInfo">
+                <div id="leftInfo">
+                    <div id="fullRedName"></div>
+                    <div id="subject"></div>
+                    <div id="fullRedStats">
+                        <div id="fullRedViews">
+                            <span id="views"></span>
+                            Views
+                        </div>
+                        <div id="fullRedLikes">
+                            <span id="likes"></span>
+                            Likes
+                        </div>
+                        <div id="fullRedScore">
+                            <span id="score"></span>
+                            Score
+                        </div>
+                    </div>
+                    <div id="fullRedButton">
+                        <button onclick="acessar()">Acessar</button>
+                    </div>
+                </div>
+                <div>
+                    <div id="fullRedAuthor"></div>
+                    <div id="fullRedDescription"></div>
+                </div>
+            </div>
+        </div>
+    </div>    
+    
+</body>
+<script src="main.js"></script>
+</html>

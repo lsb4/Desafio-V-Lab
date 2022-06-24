@@ -1,0 +1,472 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    padding: 0 0 50px 0;
+    margin: 0 0 50px 0;
+    max-width: 100%;
+    transition: .5s all;
+}
+
+#hamburguer {
+    display: none;
+}
+
+#menu {
+    z-index: 200;
+    position: fixed;
+    padding: 6px 0 0 4.6em;
+    margin: 0;
+    width: 100%;
+    max-width: 100vw;
+    background-color: rgb(111, 18, 197);
+    height: 6em;
+    display: flex;
+    align-items: center;
+}
+
+#logo img{
+    height: 5.5em;
+}
+
+#menu ul {
+    width: 32%;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    padding-left: 3em;
+    font-size: 1.3em;
+    text-shadow: 1.5px 1.5px #181818;
+}
+
+#menu ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+#reds {
+    padding: 9em 3em 3em 3em;
+    display: grid;    
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    row-gap: 3em;
+    justify-items: center;
+}
+
+.redCard {
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.342);
+    height: 22em;
+    width: 220px;
+    background-color: rgb(53, 11, 92);
+    color: white;
+    text-align: center;
+    display: inline-block;
+    align-items: center;
+    cursor: pointer;
+}
+
+.redImage {
+    height: 8em;
+    padding-bottom: 1.2em;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.redImage img {
+    height: 9.2em;
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.redName {
+    display: flex;
+    text-align: center;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    height: 4em;
+    font-size: 1.1em;
+    border-bottom: solid 1px #ffffff34;
+    padding: 1em 1em 0.9em 1em;
+    margin: 0 1em;
+}
+
+.redAuthor {
+    padding: 11px 9px 5px 9px;
+    font-size: 0.8em;
+    height: 3em;
+}
+
+.descButton {
+    padding-top: 5px;
+}
+
+.redDescription {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.15s linear;
+    z-index: 50;
+    position: absolute;
+    font-size: 12px;
+    background-color:#5f470c;
+    width: 180px;
+    height: fit-content;
+    margin: 8px 0 0 10px;
+    border-radius: 10px;
+    padding: 10px 10px 12px 10px;
+}
+
+.fullDescription , .fullAuthor, .fullLikes, .fullViews, .fullScore, .fullSubject {
+    display: none;
+}
+
+.redCategory {
+    display: flex;
+    align-items: center;
+    background-color: #e6ac19;
+    color: rgb(255, 255, 255);
+    text-shadow: 0.5px 0.5px #181818;
+    position: absolute;
+    font-size: 14px;
+    width: fit-content;
+    height: 30px;
+    border-radius: 15px;
+    margin: 7px;
+    padding: 0 14px 2px 14px;
+}
+
+#fullRedTop {
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#fullRedTop p {
+    display: flex;
+    align-items: center;
+    background-color: #e6ac19;
+    color: rgb(255, 255, 255);
+    text-shadow: 0.5px 0.5px #181818;
+    z-index: 110;
+    font-size: 14px;
+    width: fit-content;
+    height: 40px;
+    border-radius: 15px;
+    margin: 13px;
+    padding: 0 14px 2px 14px;
+}
+
+#fullRedPage {
+    visibility: hidden;
+    opacity: 0;
+    width: 80%;
+    position: fixed;
+    margin-top: 1.5em;
+    padding-bottom: 2em;
+    z-index: 400;
+    background-color: #350B5C;
+    height: fit-content;
+    border-radius: 20px;
+    color: white;
+    transition: visibility 0.2s, opacity 0.2s linear;
+}
+
+#fullRedPage .redImage img {
+    max-width:100%;
+    max-height:100%;
+    object-fit:cover;
+}
+
+#fullRedInfo {
+    display: grid;
+    padding: 0.6em 4em 0.6em 4em;
+    grid-template-columns: 40% 60%;
+}
+
+#leftInfo {
+    padding-right: 1em;
+    border-right: solid 1px #ffffff3b;
+    margin-right: 2em;
+}
+
+#fullRedName {
+    font-size: 30px;
+}
+
+#subject {
+    font-size: 12px;
+    margin: 5px 0 15px 2px;
+    color: rgba(255, 255, 255, 0.538);
+}
+
+#fullRedAuthor {
+    color: #e6ac19;
+    font-size: 16px;
+    margin-bottom: 1em;
+}
+
+#fullRedDescription {
+    font-size: 13px;
+}
+
+#fullRedStats {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-bottom: 0.8em;
+    margin-left: -2px;
+    color: #ffdf8f;
+    font-weight: 200;
+    background-color: #210c34;
+    border-radius: 5px 25px 5px 25px;
+    padding: 0.2em 2em 0.4em 2em;
+}
+
+#fullRedStats span {
+    margin-bottom: -1px;
+    color: white;
+    font-weight: 600;
+}
+
+#fullRedLikes, #fullRedViews, #fullRedScore {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#fullRedButton {
+    position: absolute;
+    bottom: -21px;
+    left: 83%;
+}
+
+#fullRedButton button {
+    width: fit-content;
+    padding: 0.4em 1.5em 0.5em 1.5em;
+    font-size: 20px;
+    border-radius: 30px;
+    border: solid 1px #350B5C;
+}
+
+#closeButton {
+    cursor: pointer;
+}
+
+#background {
+    visibility: hidden;
+    opacity: 0;
+    transition: visibility 0.2s, opacity 0.2s linear;
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    height: 200%;
+    width: 100%;
+    z-index: 300;
+    background-color: #181818da;
+}
+
+/* Ligth & Dark Mode Switch */
+
+#mode {
+    margin-left: 36.5%;
+    display: flex;
+    align-items: center;
+}
+
+#mode span {
+    color: white;
+    padding-bottom: 3px;
+    padding-right: 9px;
+    font-size: 1.3em;
+    text-shadow: 1.5px 1.5px #181818;
+}
+
+.switch {
+    position: relative;
+    width: 45px;
+    height: 24px;
+}
+
+.switch input {
+    display: none;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    border-radius: 34px;
+    -webkit-transition: .4s;
+    transition: .4s;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 16px;
+    width: 16px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider {
+    background-color: #252525;
+}
+
+input:checked + .slider:before {
+    -webkit-transform: translateX(21px);
+    -ms-transform: translateX(21px);
+    transform: translateX(21px);
+}
+
+/* ----------- */
+
+@media only screen and (max-width: 1500px){
+    #mode {
+        padding-right: 11%;
+        margin-left: 30.5%;
+    }    
+}
+
+@media only screen and (max-width: 1300px){
+    #mode {
+        padding-right: 17%;
+        margin-left: 25.5%;
+    }
+
+    #menu ul {
+        padding-left: 1.2em;
+    }
+
+    #menu ul li {
+        padding: 0 40px;
+    }
+
+    #reds {
+        grid-template-columns: 33% 33% 33%;
+        row-gap: 5em;
+    }
+
+    .redCard {
+        height: 23em;
+        width: 255px;
+    }
+}
+
+@media only screen and (max-width: 1050px){
+    #mode {
+        padding-right: 23%;
+        margin-left: 20.5%;
+    }
+
+    #menu ul li {
+        padding: 0 30px;
+    }
+
+    #fullRedButton {
+        left: 78%;
+    }
+}
+
+@media only screen and (max-width: 920px){
+
+    #hamburguer {
+        display: inherit;
+        padding-left: 30px;
+    }
+
+    #mode {
+        padding-right: 53%;
+        margin-left: 43.5%;
+    }
+
+    #menu {
+        padding-left: 2em;
+        padding-right: 2em;
+    }
+
+    #menu ul {
+        display: none;
+    }
+
+    #reds {
+        grid-template-columns: 50% 50%;
+        row-gap: 5em;
+    }
+
+    .redCard {
+        height: 23em;
+        width: 255px;
+    }
+
+    #fullRedButton {
+        left: 71%;
+    }
+}
+
+@media only screen and (max-width: 850px){
+    #fullRedName {
+        font-size: 20px;
+    }
+
+    #fullRedInfo {
+        padding-left: 2em;
+    }
+
+    #fullRedStats {
+        padding-left: 1em;
+        padding-right: 1em;
+        width: 70%;
+    }
+}
+
+@media only screen and (max-width: 850px){
+    #fullRedStats {
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 700px){
+
+    #menu {
+        padding-left: 2em;
+    }
+
+    #mode {
+        padding-right: 53%;
+        margin-left: 10.5%;
+    }
+
+    #reds {
+        grid-template-columns: 100%;
+        row-gap: 3em;
+    }
+
+    .redCard {
+        height: 23em;
+        width: 255px;
+    }
+
+    #fullRedName {
+        font-size: 15px;
+    }
+
+    #fullRedButton {
+        left: 65%;
+    }
+}
