@@ -102,7 +102,11 @@ body{
 }
 
 .descButton {
-    padding-top: 5px;
+    margin: 0 10%;
+    padding: .5rem;
+    border-radius: 10px;
+
+    background-color: #e6ac19;
 }
 
 .redDescription {
