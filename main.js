@@ -94,17 +94,32 @@ function hideDesc(id){
 function switchMode(switcher){
     if(switcher.checked == true){
         const categories = document.getElementsByClassName("redCategory")
+        const buttons = document.getElementsByClassName("descButton")
+
         for (var i = 0; i < categories.length; i++) {
             categories[i].style.backgroundColor = "#2f2f2f";
         }
+
+        for (var i = 0; i < buttons.length; i++) {
+            buttons[i].style.backgroundColor = "#2f2f2f";
+        }
+
+
         document.querySelector("#fullRedCategory").style.backgroundColor = "#2f2f2f";
         document.querySelector("#closeButton").style.backgroundColor = "#2f2f2f";
         document.body.style.backgroundColor = "#404040";
     }else{
         const categories = document.getElementsByClassName("redCategory")
+        const buttons = document.getElementsByClassName("descButton")
+
         for (var i = 0; i < categories.length; i++) {
             categories[i].style.backgroundColor = "#e6ac19";
         }
+        
+        for (var i = 0; i < buttons.length; i++) {
+            buttons[i].style.backgroundColor = "#e6ac19";
+        }
+
         document.body.style.backgroundColor = "white";
    }
 }

@@ -1,0 +1,57 @@
+body {
+  z-index: 10;
+  box-shadow: 5px 10px 8px 10px #888888;
+  border-radius: 1rem;
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 1000px;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+h3 {
+  color: rgb(25, 103, 210);
+  font-size: 2rem;
+  border-left: solid 3px rgb(25, 103, 210);
+  padding-left: 1rem;
+}
+
+hr {
+  margin: 2rem 0;
+}
+
+p {
+  color: rgb(24, 90, 188);
+  font-size: 1.75rem;
+}
+
+.content {
+  display: flex;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5em;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+
+.icons {
+  height: 40px;
+  width: 40px;
+  padding: 0.3em;
+  border-radius: 0.2em;
+  color: rgb(60, 64, 67);
+  font-size: 2rem;
+  background-color: rgb(199, 199, 199);
+}
+
+.detail {
+  margin: 0 auto 0 2rem;
+}
+
+.content:hover {
+  border: solid 1px rgb(25, 103, 210);
+}
